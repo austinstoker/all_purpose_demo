@@ -3,15 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9d8e78844b671ab59c13a2d1c5ae7fde",
+  "assets/AssetManifest.json": "af8f032a19ec2554c89734341c787f08",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
 "assets/assets/audio/hut.m4a": "d011f15f5155a6a9ac9b1a7fc504c099",
 "assets/assets/audio/man.m4a": "6c774d3b87a8e984607e0271d406488c",
 "assets/assets/audio/nut.m4a": "71f8ac8ab5a0926123b2439cd008dad2",
 "assets/assets/audio/ran.m4a": "945d3d4587ba810d7d1f0b8b6d98e151",
-"assets/assets/audio/Run.m4a": "a3cd64f2139cae799034abb52f5238ef",
-"assets/assets/audio/Sun.m4a": "57710693addb7cb4764debe883559d3d",
 "assets/assets/images/basic_dog.png": "239df8b08e6411a24c3b6f164f49ca14",
 "assets/assets/images/blank_bone.png": "26b219c282497054e3414ecae9c40ec4",
 "assets/assets/images/dog_sprite.png": "170ab99dcc879609d56b57d2871b5068",
@@ -29,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "69712fc3771cf283e3389961c25ec0f3",
+"index.html": "3941338765cb421c031b24efd85201dc",
  
-"main.dart.js": "a3d9be1fe8344d9fb7a2e00cbdba98c8",
+"main.dart.js": "1bf77394db4bc53b5b86fbdd391220b8",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "87f0ac22727d08fb4b106455327fc929"
 };
