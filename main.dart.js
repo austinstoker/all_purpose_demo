@@ -24556,8 +24556,7 @@ aV(b6){var s=0,r=A.L(t.H),q=this,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,
 var $async$aV=A.F(function(b7,b8){if(b7===1)return A.I(b8,r)
 while(true)switch(s){case 0:s=2
 return A.H(q.kL(0),$async$aV)
-case 2:q.z=!0
-p=t.s
+case 2:p=t.s
 s=3
 return A.H($.xH().eC(A.b(["cut.m4a","fun.m4a","hut.m4a","man.m4a","nut.m4a","ran.m4a"],p)),$async$aV)
 case 3:s=4
