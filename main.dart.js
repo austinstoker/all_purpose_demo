@@ -24635,7 +24635,7 @@ A.uv.prototype={
 c8(){this.kY()
 this.cM$=null}}
 A.rJ.prototype={
-aN(a){var s=$.fN().b.h(0,"gear_icon.png").a
+aN(a){var s=$.fN().b.h(0,"sound_icon.png").a
 s.toString
 this.x2=A.jw(s,null,null)
 return this.h3(0)},
@@ -24677,7 +24677,7 @@ case 2:p=t.s
 s=3
 return A.E($.fM().eH(A.b(["cut.m4a","fun.m4a","hut.m4a","man.m4a","nut.m4a","ran.m4a","huh.m4a","ruff.m4a"],p)),$async$aN)
 case 3:s=4
-return A.E($.fN().eH(A.b(["kitchen_scene.png","blank_bone.png","basic_dog.png","dog_sprite.png","gear_icon.png","back_icon.png"],p)),$async$aN)
+return A.E($.fN().eH(A.b(["kitchen_scene.png","blank_bone.png","basic_dog.png","dog_sprite.png","gear_icon.png","back_icon.png","question_icon.png","replay_icon.png","sound_icon.png"],p)),$async$aN)
 case 4:B.c.kI(q.aL)
 p=new A.m(new Float64Array(2))
 p.O(16,9)

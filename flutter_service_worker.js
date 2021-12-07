@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "34d6bcd3ed0224fa6d03e82b4d3889a1",
+  "assets/AssetManifest.json": "f5243ca41eb16e4de5bad6e4a5aa90c9",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
 "assets/assets/audio/huh.m4a": "71dce9aa2b81775b5c244633c9a30f19",
@@ -18,6 +18,9 @@ const RESOURCES = {
 "assets/assets/images/dog_sprite.png": "170ab99dcc879609d56b57d2871b5068",
 "assets/assets/images/gear_icon.png": "c63035f7578bb78708e1ffce00c11058",
 "assets/assets/images/kitchen_scene.png": "4b44e91b0d707fb5463ebe8938035ee8",
+"assets/assets/images/question_icon.png": "6c003ae43a79a65c6f7c854ee60015d4",
+"assets/assets/images/replay_icon.png": "e2503e080ef637a3e1efa2cb43356fa5",
+"assets/assets/images/sound_icon.png": "96878d98bff1d7b7d33fe3c099a61a59",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "3cff79d77bfa0fef29848bb07f98cddb",
@@ -31,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a40aab5db2a6e49a9abb2fd4947b7462",
+"index.html": "a0f4ee24249b7a1266b4f483ba55ed6b",
  
-"main.dart.js": "2bafb8e35f3f2cc6c8a6057f38dc8109",
+"main.dart.js": "5888d10b087757597f17f23695181462",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "87f0ac22727d08fb4b106455327fc929"
 };
