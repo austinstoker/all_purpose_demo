@@ -3,15 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f5243ca41eb16e4de5bad6e4a5aa90c9",
+  "assets/AssetManifest.json": "b5873609f4a73a1ff3ba013ce4ad2a23",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
+"assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
+"assets/assets/audio/good_work.m4a": "81eb8a0b0824da3f36eb7d0b852596e3",
 "assets/assets/audio/huh.m4a": "71dce9aa2b81775b5c244633c9a30f19",
 "assets/assets/audio/hut.m4a": "d011f15f5155a6a9ac9b1a7fc504c099",
+"assets/assets/audio/lets_go.m4a": "e47cba9df5fabce955e1397f3e87b71e",
 "assets/assets/audio/man.m4a": "6c774d3b87a8e984607e0271d406488c",
 "assets/assets/audio/nut.m4a": "71f8ac8ab5a0926123b2439cd008dad2",
 "assets/assets/audio/ran.m4a": "945d3d4587ba810d7d1f0b8b6d98e151",
+"assets/assets/audio/retro_chip_power.wav": "71c92d9116d11a635b0cee213548f08f",
 "assets/assets/audio/ruff.m4a": "37f8c406f2d520addfce850f60c6b517",
+"assets/assets/audio/thats_the_one.m4a": "adc95f7242e836e4d9c1b46802a875dd",
+"assets/assets/audio/you_got_it.m4a": "91438b4e7b5c4fd6d3feeba01c68bafb",
 "assets/assets/images/back_icon.png": "b129ae950cbf368891ebb27799ee71f9",
 "assets/assets/images/basic_dog.png": "239df8b08e6411a24c3b6f164f49ca14",
 "assets/assets/images/blank_bone.png": "26b219c282497054e3414ecae9c40ec4",
@@ -34,9 +40,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a561340175e92b28779b23af086aa62a",
+"index.html": "bd8a56e28c94a083007bcb881a610aea",
  
-"main.dart.js": "5888d10b087757597f17f23695181462",
+"main.dart.js": "bfbd8094e9be65634da0acdaf41a4e3c",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "87f0ac22727d08fb4b106455327fc929"
 };
