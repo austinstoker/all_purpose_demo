@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3903373aa81d82e565f5d5a3e32656c1",
+  "assets/AssetManifest.json": "6d56a521a5acc04817c25609efc576f2",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -19,12 +19,14 @@ const RESOURCES = {
 "assets/assets/audio/ruff.m4a": "37f8c406f2d520addfce850f60c6b517",
 "assets/assets/audio/thats_the_one.m4a": "adc95f7242e836e4d9c1b46802a875dd",
 "assets/assets/audio/you_got_it.m4a": "91438b4e7b5c4fd6d3feeba01c68bafb",
+"assets/assets/fonts/primer_print.ttf": "f4b9a102b98c7f85fa6596b6c5609cd3",
 "assets/assets/images/back_icon.png": "b129ae950cbf368891ebb27799ee71f9",
 "assets/assets/images/dog/blank_bone.png": "26b219c282497054e3414ecae9c40ec4",
 "assets/assets/images/dog/dog_sprite.png": "170ab99dcc879609d56b57d2871b5068",
 "assets/assets/images/dog/kitchen_scene.png": "4b44e91b0d707fb5463ebe8938035ee8",
 "assets/assets/images/gear_icon.png": "c63035f7578bb78708e1ffce00c11058",
 "assets/assets/images/otters/otter_background.png": "373d52dec4b00845e132f9ba73d102e7",
+"assets/assets/images/peach/peach_background.png": "39ce2deaddfdde67724bb55a1eb0010b",
 "assets/assets/images/question_icon.png": "8346fb2bc6b646cf9f21099c6f97faf8",
 "assets/assets/images/replay_icon.png": "18a393b426d82c6135634560ab7781c6",
 "assets/assets/images/shark/blank_fish.png": "0e0a52813e0b8b6fe0eb96c08f90a369",
@@ -34,7 +36,7 @@ const RESOURCES = {
 "assets/assets/images/sound_icon.png": "ae0b3cd01a69080a1e237e7cd9005734",
 "assets/assets/images/turtles/turtle_background.png": "3432c9c6856333725057d4ea315779dd",
 "assets/assets/images/turtles/turtle_sprite.png": "f6b68605cc697b923c01973912a9c7e7",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "4b83ac5a2f10f6efd83eaab2265025a9",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "3cff79d77bfa0fef29848bb07f98cddb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -47,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9dc4a8c87498fbb8f019a2e6f3c0ef1b",
+"index.html": "5536f8f4231d9bc1ea834c27181914b5",
  
-"main.dart.js": "5a165cb1edfead66773b63670f0928d9",
+"main.dart.js": "fd98880b20edbbff11e447ff5f9e3ffb",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "cdf0d1a0ea57c03ad50f03414d93f3f4"
 };
