@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6d56a521a5acc04817c25609efc576f2",
+  "assets/AssetManifest.json": "76db77e34d9abacf539087b8448a39fd",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -22,8 +22,9 @@ const RESOURCES = {
 "assets/assets/fonts/primer_print.ttf": "f4b9a102b98c7f85fa6596b6c5609cd3",
 "assets/assets/images/back_icon.png": "b129ae950cbf368891ebb27799ee71f9",
 "assets/assets/images/dog/blank_bone.png": "26b219c282497054e3414ecae9c40ec4",
-"assets/assets/images/dog/dog_sprite.png": "170ab99dcc879609d56b57d2871b5068",
+"assets/assets/images/dog/dog_sprite.png": "a3b2c65a96b56ba9180a1d58300003ab",
 "assets/assets/images/dog/kitchen_scene.png": "4b44e91b0d707fb5463ebe8938035ee8",
+"assets/assets/images/dog/tail_animation.png": "c3fbe76dff9be54f2b640b3e45412b45",
 "assets/assets/images/gear_icon.png": "c63035f7578bb78708e1ffce00c11058",
 "assets/assets/images/otters/otter_background.png": "373d52dec4b00845e132f9ba73d102e7",
 "assets/assets/images/peach/peach_background.png": "39ce2deaddfdde67724bb55a1eb0010b",
@@ -49,9 +50,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5536f8f4231d9bc1ea834c27181914b5",
+"index.html": "2d403e5ac047cb9a9afa8d4ca3120734",
  
-"main.dart.js": "fd98880b20edbbff11e447ff5f9e3ffb",
+"main.dart.js": "f349ed0cd777c711688bc7ff5f37687e",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "cdf0d1a0ea57c03ad50f03414d93f3f4"
 };
