@@ -36,7 +36,7 @@ const RESOURCES = {
 "assets/assets/images/shark/shark_sprite.png": "4a83e5e6642b0532da030c3eedd69981",
 "assets/assets/images/sound_icon.png": "ae0b3cd01a69080a1e237e7cd9005734",
 "assets/assets/images/turtles/turtle_background.png": "3432c9c6856333725057d4ea315779dd",
-"assets/assets/images/turtles/turtle_sprite.png": "f6b68605cc697b923c01973912a9c7e7",
+"assets/assets/images/turtles/turtle_sprite.png": "76b9afd43b5fef8698b8c9b079ffcb8a",
 "assets/FontManifest.json": "4b83ac5a2f10f6efd83eaab2265025a9",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "3cff79d77bfa0fef29848bb07f98cddb",
@@ -50,9 +50,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2d403e5ac047cb9a9afa8d4ca3120734",
+"index.html": "d2c3442acba8cc2161db78a749593b2f",
  
-"main.dart.js": "f349ed0cd777c711688bc7ff5f37687e",
+"main.dart.js": "480c28228eade28423118e230fa85c55",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "cdf0d1a0ea57c03ad50f03414d93f3f4"
 };
