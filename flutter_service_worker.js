@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b4fedc958f5f0793024ec1af58fd622d",
+  "assets/AssetManifest.json": "ba8f1998fab5d7e71dffafb3d31d4c32",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -27,7 +27,8 @@ const RESOURCES = {
 "assets/assets/images/dog/tail_animation.png": "c3fbe76dff9be54f2b640b3e45412b45",
 "assets/assets/images/gear_icon.png": "c63035f7578bb78708e1ffce00c11058",
 "assets/assets/images/otters/otter_background.png": "373d52dec4b00845e132f9ba73d102e7",
-"assets/assets/images/peaches/basket.png": "7c8e9b102acf47267b7afa344452c4f7",
+"assets/assets/images/peaches/basket.png": "4bd35bd6f60d0af0461d22ea2872feac",
+"assets/assets/images/peaches/basket_back.png": "45730ff21005a21664f3c51526fe6980",
 "assets/assets/images/peaches/peach1.png": "bb6add71e94bb5112d67a1e86c3db5ef",
 "assets/assets/images/peaches/peach2.png": "afc4e02b1dabc8911289e37ad2ee586e",
 "assets/assets/images/peaches/peach3.png": "786c54608b6d37b20e75930de793b32a",
@@ -54,9 +55,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f4bfa48359e9b3a306e070c41a1e313d",
+"index.html": "3c25f180144479c5c227b44e4ef7192d",
  
-"main.dart.js": "754023d3c740578c6c92b83b2da6772a",
+"main.dart.js": "b2447c97be0fd68f99ed46bb29c902f1",
 "manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
 "version.json": "cdf0d1a0ea57c03ad50f03414d93f3f4"
 };
