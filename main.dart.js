@@ -61955,11 +61955,11 @@ o=j.dx.d
 n=Math.sqrt(o.eR(q))
 if(n<p){j.bn=Math.max(0.1,n/p)
 m=new A.i(new Float64Array(2))
-m.E(400,200)
+m.E(402,238)
 l=j.dy
 l.aq(m.J(0,j.bn))
 l.D()}else{m=new A.i(new Float64Array(2))
-m.E(400,200)
+m.E(402,238)
 l=j.dy
 l.aq(m)
 l.D()}if(!j.giu())if(j.ce&&o.a[0]<0.9*r.a[0]){m=j.C
@@ -61978,7 +61978,7 @@ s.vV(0,b,c)
 return!0},
 ct(a,b){var s,r=this,q=null
 r.vW(0,b)
-s=A.kk(q,q,B.n,q,q,q,q,q,"Primer",q,q,100*r.bn,q,q,q,q,!0,q,q,q,q,q,q,q,q)
+s=A.kk(q,q,B.i,q,q,q,q,q,"Primer",q,q,100*r.bn,q,q,q,q,!0,q,q,q,q,q,q,q,q)
 r.br=s
 s=A.i7(A.a(s,"textConfig"),q)
 r.bJ=s
@@ -62158,51 +62158,57 @@ r=r.J(0,120)
 s=new A.i(new Float64Array(2))
 s.E(150,150)
 this.as=A.fx("question_icon.png",new A.a4q(),r,s)},
-a4f(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c=this.bb,b=c.length,a=new A.i(new Float64Array(2))
-a.E(450/b,225/b)
-for(b=this.b2,s=t.U,r=t.g,q=t.i,p=t.Z,o=t.K,n=t.r,m=0;l=c.length,m<l;++m){k=new Float64Array(2)
-k[0]=1040+450/l/4*3
-k[1]=100
+a4f(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a=new Float64Array(2)
+new A.i(a).E(402,238)
+s=a[0]
+r=this.bb
+q=r.length
+a=a[1]
+p=new A.i(new Float64Array(2))
+p.E(s/q,a/q)
+for(a=this.b2,s=t.U,q=t.g,o=t.i,n=t.Z,m=t.K,l=t.r,k=0;j=r.length,k<j;++k){i=new Float64Array(2)
+i[0]=1040+450/j/4*3
+i[1]=100
+h=new Float64Array(2)
+h[0]=600/j
+h[1]=0
 j=new Float64Array(2)
-j[0]=600/l
-j[1]=0
-l=new Float64Array(2)
-i=new A.i(l)
-l[1]=j[1]
-l[0]=j[0]
-i.aI(0,m)
-l=new Float64Array(2)
-h=new A.i(l)
-l[1]=k[1]
-l[0]=k[0]
-h.A(0,i)
-l=A.b9()
-l.sai(0,B.i)
-k=new A.an(new Float64Array(16))
-k.b4()
-j=A.K(0,d,!1,p)
-j=new A.bx(j,new Float64Array(2))
-i=A.K(0,d,!1,p)
-i=new A.bx(i,new Float64Array(2))
-i.cg(1)
-i.D()
-g=A.K(0,d,!1,p)
+g=new A.i(j)
+j[1]=h[1]
+j[0]=h[0]
+g.aI(0,k)
+j=new Float64Array(2)
+f=new A.i(j)
+j[1]=i[1]
+j[0]=i[0]
+f.A(0,g)
+j=A.b9()
+j.sai(0,B.i)
+i=new A.an(new Float64Array(16))
+i.b4()
+h=A.K(0,b,!1,n)
+h=new A.bx(h,new Float64Array(2))
+g=A.K(0,b,!1,n)
 g=new A.bx(g,new Float64Array(2))
-k=new A.bJ(k,j,i,g,A.K(0,d,!1,p))
-f=k.gcj()
-j.I(0,f)
-i.I(0,f)
-g.I(0,f)
-j=a
-i=A.K(0,d,!1,p)
-i=new A.bx(i,new Float64Array(2))
-i.aq(j)
-i.D()
-j=A.b([],q)
-e=new A.x9(d,d,A.q(o,n),l,k,i,B.r,0,new A.a0([],s),new A.a0([],r),j,$)
-e.ci(d,d,h,d,d,a)
-e.h0(0.5)
-b.push(e)}},
+g.cg(1)
+g.D()
+e=A.K(0,b,!1,n)
+e=new A.bx(e,new Float64Array(2))
+i=new A.bJ(i,h,g,e,A.K(0,b,!1,n))
+d=i.gcj()
+h.I(0,d)
+g.I(0,d)
+e.I(0,d)
+h=p
+g=A.K(0,b,!1,n)
+g=new A.bx(g,new Float64Array(2))
+g.aq(h)
+g.D()
+h=A.b([],o)
+c=new A.x9(b,b,A.q(m,l),j,i,g,B.r,0,new A.a0([],s),new A.a0([],q),h,$)
+c.ci(b,b,f,b,b,p)
+c.h0(0.5)
+a.push(c)}},
 a4d(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9=null
 for(s=this.aL,r=t.N,q=t.mi,p=t.sW,o=t.U,n=t.g,m=t.i,l=t.Z,k=t.K,j=t.r,i=t.B4,h=t.t,g=0;g<3;++g){f=new Float64Array(2)
 f[0]=14
@@ -62262,7 +62268,7 @@ a6.D()
 a5=A.b([],m)
 a8=new A.va("",d,new A.i(e),c,new A.i(b),new A.i(a),a0,A.av(i),a9,!1,a1,a9,A.q(k,j),a2,a3,a6,B.r,0,new A.a0([],o),new A.a0([],n),a5,$)
 a8.ci(a9,a9,d,a9,a9,f)
-f=new A.A(!0,B.n,a9,"Primer",a9,a9,100,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9)
+f=new A.A(!0,B.i,a9,"Primer",a9,a9,100,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9,a9)
 a8.br=f
 f=A.a(f,"textConfig")
 e=A.lf(a9,a9,a9,r,q)
@@ -62418,10 +62424,10 @@ A.J5.prototype={
 a8(a){var s,r,q,p=$.cz().b.h(0,"shark/shark_sprite.png").a
 p.toString
 s=new A.i(new Float64Array(2))
-s.E(996,666)
+s.E(1000,750)
 r=this.bb
 q=new A.i(new Float64Array(2))
-q.E(r*996,1332)
+q.E(r*1000,1500)
 this.y2=A.dd(p,q,s)
 return this.lO(0)},
 b3(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this
@@ -62443,16 +62449,17 @@ if(q>0.25){h.br=B.d.ds(q,0.25)
 if(l<1){q=l+1
 h.bb=q}else{h.bb=0
 q=0}}else q=l
-if(l!==q){k=r?0:1
+if(l!==q){if(r)k=2
+else k=o?0:1
 q=$.cz().b.h(0,"shark/shark_sprite.png").a
 q.toString
 p=new A.i(new Float64Array(2))
-p.E(996,666)
+p.E(1000,750)
 j=h.bb
 i=new A.i(new Float64Array(2))
-i.E(j*996,666*k)
+i.E(j*1000,k*750)
 h.y2=A.dd(q,i,p)}q=new A.i(new Float64Array(2))
-q.E(996,666)
+q.E(1000,750)
 p=h.dy
 p.aq(q)
 p.D()},
