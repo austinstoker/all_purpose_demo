@@ -1,11 +1,11 @@
 {
-    "name": "dog_a_bone",
-    "short_name": "dog_a_bone",
+    "name": "homeschool",
+    "short_name": "homeschool",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "GiveADogABone",
+    "description": "The Good and the Beautiful Homschooling App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

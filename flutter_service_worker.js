@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "15803f7ecce3a739cf124247431ba560",
+  "assets/AssetManifest.json": "ad7562d2405002f44a8454b0845e0c6c",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -20,6 +20,7 @@ const RESOURCES = {
 "assets/assets/audio/thats_the_one.m4a": "adc95f7242e836e4d9c1b46802a875dd",
 "assets/assets/audio/you_got_it.m4a": "91438b4e7b5c4fd6d3feeba01c68bafb",
 "assets/assets/fonts/primer_print.ttf": "f4b9a102b98c7f85fa6596b6c5609cd3",
+"assets/assets/hearts_and_hands_icon.png": "1c38bb6965f172b4fc9949d99ad2f658",
 "assets/assets/images/back_icon.png": "b129ae950cbf368891ebb27799ee71f9",
 "assets/assets/images/dog/blank_bone.png": "26b219c282497054e3414ecae9c40ec4",
 "assets/assets/images/dog/dog_sprite.png": "a3b2c65a96b56ba9180a1d58300003ab",
@@ -34,6 +35,9 @@ const RESOURCES = {
 "assets/assets/images/peaches/peach2.png": "afc4e02b1dabc8911289e37ad2ee586e",
 "assets/assets/images/peaches/peach3.png": "786c54608b6d37b20e75930de793b32a",
 "assets/assets/images/peaches/peach_background.png": "0a5a800d176cd0424fe3ff3884742963",
+"assets/assets/images/pig/Background.png": "d924b7027e85aa15cf6cfc7e5b623047",
+"assets/assets/images/pig/momPigs.png": "a48503b231b1a378691896d18b42529b",
+"assets/assets/images/pig/piglets.png": "da7402bd813661d9f3e838115cdfdac0",
 "assets/assets/images/question_icon.png": "8346fb2bc6b646cf9f21099c6f97faf8",
 "assets/assets/images/replay_icon.png": "18a393b426d82c6135634560ab7781c6",
 "assets/assets/images/shark/blank_fish.png": "0dfc37f81726879ca40d53377a0ac2bf",
@@ -44,25 +48,27 @@ const RESOURCES = {
 "assets/assets/images/turtles/single_turtle.png": "88de6f3c15f49d7f8841b0d2c478b2c5",
 "assets/assets/images/turtles/turtle_background.png": "3432c9c6856333725057d4ea315779dd",
 "assets/assets/images/turtles/turtle_sprite.png": "601fcae957a52b7d4d68a75ed3c84b43",
+"assets/assets/la_icon.png": "3de22d25a7ea1b9074b87377edee8a6b",
 "assets/assets/lomia.pdf": "ba2510175de26bdb35d112bdc5c2a816",
+"assets/assets/math_icon.png": "6f08d0d0cfbd7307b1a18e60515e8718",
+"assets/assets/music_icon.png": "7156fdfed6a2b3a03ca5b5672f4aa53d",
 "assets/FontManifest.json": "4b83ac5a2f10f6efd83eaab2265025a9",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "137e05e3320518196770c6e41c0b82da",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "86d0c31c88351fc28623dff0d17dcc60",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c2762bb45c4451eb7381888e5859ba6f",
+"favicon.png": "0a427c8f82d8e4db9e49714d080198be",
+"icons/Icon_192.png": "0678d97efb0ad43da7ec26e22a218cb0",
+"icons/Icon_512.png": "64bff739b955ba42e4c5776ae2d8edee",
+"index.html": "7a46a7eca64fba3e3e2b5ab43a559be7",
  
-"main.dart.js": "69ce89777dd0443a0814c2a5b38966a4",
-"manifest.json": "ede90ca43bf15ca70961ee2ad3670206",
-"version.json": "cdf0d1a0ea57c03ad50f03414d93f3f4"
+"main.dart.js": "c51e02383e52b7632e2730b876c852e8",
+"manifest.json": "445d0a3dc6801774979ec43fc42aa107",
+"version.json": "dd0fac6466e7553d3e9000d2a9f7e4d5"
 };
 
 // The application shell files that are downloaded before a service worker can
