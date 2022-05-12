@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ad7562d2405002f44a8454b0845e0c6c",
+  "assets/AssetManifest.json": "7d4d4ffa1abb5a2612c7f6c01dce96a1",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -19,6 +19,9 @@ const RESOURCES = {
 "assets/assets/audio/ruff.m4a": "37f8c406f2d520addfce850f60c6b517",
 "assets/assets/audio/thats_the_one.m4a": "adc95f7242e836e4d9c1b46802a875dd",
 "assets/assets/audio/you_got_it.m4a": "91438b4e7b5c4fd6d3feeba01c68bafb",
+"assets/assets/branding/Butterfly.png": "58d34f3a2408325c2955ada9b861e435",
+"assets/assets/branding/GB_Brand.png": "c258842a179001602812619ce2e31276",
+"assets/assets/branding/HS_Brand.png": "54f1b1afcc5ba6459f22dfd0fa428f1f",
 "assets/assets/fonts/primer_print.ttf": "f4b9a102b98c7f85fa6596b6c5609cd3",
 "assets/assets/hearts_and_hands_icon.png": "1c38bb6965f172b4fc9949d99ad2f658",
 "assets/assets/images/back_icon.png": "b129ae950cbf368891ebb27799ee71f9",
@@ -54,7 +57,7 @@ const RESOURCES = {
 "assets/assets/music_icon.png": "7156fdfed6a2b3a03ca5b5672f4aa53d",
 "assets/FontManifest.json": "4b83ac5a2f10f6efd83eaab2265025a9",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "86d0c31c88351fc28623dff0d17dcc60",
+"assets/NOTICES": "7ea23d408dc1df7efe3efdfd211a240e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -64,9 +67,9 @@ const RESOURCES = {
 "favicon.png": "0a427c8f82d8e4db9e49714d080198be",
 "icons/Icon_192.png": "0678d97efb0ad43da7ec26e22a218cb0",
 "icons/Icon_512.png": "64bff739b955ba42e4c5776ae2d8edee",
-"index.html": "51eddb4925621feb01a78ba0ae754bad",
+"index.html": "50ccf30352f4853c4796b8eedbdeb5cc",
  
-"main.dart.js": "c51e02383e52b7632e2730b876c852e8",
+"main.dart.js": "4a48e48ca0bd1c3c937c17e8e95c5301",
 "manifest.json": "445d0a3dc6801774979ec43fc42aa107",
 "version.json": "dd0fac6466e7553d3e9000d2a9f7e4d5"
 };
