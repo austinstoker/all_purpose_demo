@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "121acf028919a767ac036aeacfe0f5da",
+  "assets/AssetManifest.json": "f72fa64595e10afe880a272080601cf1",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -55,6 +55,10 @@ const RESOURCES = {
 "assets/assets/la_icon.png": "3de22d25a7ea1b9074b87377edee8a6b",
 "assets/assets/lomia.pdf": "ba2510175de26bdb35d112bdc5c2a816",
 "assets/assets/math_icon.png": "6f08d0d0cfbd7307b1a18e60515e8718",
+"assets/assets/media_type_icons/Audio.png": "7d0059b60cd9602a6f0359c30785b152",
+"assets/assets/media_type_icons/Book.png": "e85361b55fbfb766467caf4c968f4fe2",
+"assets/assets/media_type_icons/Document.png": "929ea01038296462359d692cee443889",
+"assets/assets/media_type_icons/Video.png": "bef99f44e6464ce4c0ee2236a5414e83",
 "assets/assets/music_icon.png": "7156fdfed6a2b3a03ca5b5672f4aa53d",
 "assets/assets/subject_icons/book_icon.png": "679f4f79fac7cb1e78f21c9bb2e119c8",
 "assets/assets/subject_icons/fav_icon.png": "757d8b53a2805e018e5f63bc74089751",
@@ -75,9 +79,9 @@ const RESOURCES = {
 "icons/Icon_192.png": "e97bdae81cc77c81519f8b8debe110fa",
 "icons/Icon_512.png": "59e8e27eab4c89d526fa08dc5c37335b",
 "Icon_16.png": "7ece8a5714b93effa02d6248afa44665",
-"index.html": "2476b0e2e7ed505b66506dfba1a62104",
+"index.html": "10105bb7a2095f77a1a33953ef15b681",
  
-"main.dart.js": "a7a74f43985da0e5608959fe0566b9e3",
+"main.dart.js": "c6d89a13718916c756e58280787f32b1",
 "manifest.json": "445d0a3dc6801774979ec43fc42aa107",
 "version.json": "9c0a910246813c1660094cad4a7cd9af"
 };
