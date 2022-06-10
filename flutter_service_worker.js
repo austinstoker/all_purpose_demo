@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bf0866c5a9e838cc2f42704ff3bf742f",
+  "assets/AssetManifest.json": "b8b6d66d7c2b52b88672ec49d71b4f9a",
 "assets/assets/audio/cut.m4a": "b3df809d9ee08f81c94922d19d7e0997",
 "assets/assets/audio/exactly_right.m4a": "88c6193027457d1ae765c863b3f37c1f",
 "assets/assets/audio/fun.m4a": "6b2bfd365a6799058d2897088de9ccd2",
@@ -19,6 +19,7 @@ const RESOURCES = {
 "assets/assets/audio/ruff.m4a": "37f8c406f2d520addfce850f60c6b517",
 "assets/assets/audio/thats_the_one.m4a": "adc95f7242e836e4d9c1b46802a875dd",
 "assets/assets/audio/you_got_it.m4a": "91438b4e7b5c4fd6d3feeba01c68bafb",
+"assets/assets/branding/BrandName.png": "f6ba25a07b23e6b5b243f38537e5818f",
 "assets/assets/branding/Butterfly.png": "58d34f3a2408325c2955ada9b861e435",
 "assets/assets/branding/ButterflyMed.png": "91d8cb7e98e347e903c313e8b3bdcb1b",
 "assets/assets/branding/GB_Brand.png": "c258842a179001602812619ce2e31276",
@@ -81,9 +82,9 @@ const RESOURCES = {
 "icons/Icon_192.png": "e97bdae81cc77c81519f8b8debe110fa",
 "icons/Icon_512.png": "59e8e27eab4c89d526fa08dc5c37335b",
 "Icon_16.png": "7ece8a5714b93effa02d6248afa44665",
-"index.html": "3469129af2446fb057aac3ced34da148",
+"index.html": "6966224ef976e3189ce8ea583482783f",
  
-"main.dart.js": "ad4e71459dbd3b1f6723aad2e769a3b5",
+"main.dart.js": "fd2f831a14ce72ea3325f88cd076a891",
 "manifest.json": "445d0a3dc6801774979ec43fc42aa107",
 "version.json": "9c0a910246813c1660094cad4a7cd9af"
 };
