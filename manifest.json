@@ -1,11 +1,11 @@
 {
-    "name": "homeschool",
-    "short_name": "homeschool",
+    "name": "catch_a_fly",
+    "short_name": "catch_a_fly",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "The Good and the Beautiful Homschooling App",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
